@@ -20,6 +20,10 @@
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline #233e8b 3px;
+      }
     }
   }
 }

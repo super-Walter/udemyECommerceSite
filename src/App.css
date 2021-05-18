@@ -8,6 +8,6 @@ a {
   color: black;
 }
 
-a:hover {
-  text-decoration: underline purple 3px;
+* {
+  box-sizing: border-box;
 }
