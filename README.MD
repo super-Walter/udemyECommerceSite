@@ -41,7 +41,8 @@ I think it's a good method to train my skills of React eco-system.
 This project was originally created by [Andrei Neagoie](https://www.linkedin.com/in/andreineagoie/).
 Thanks to his Udemy course, I have a solid foundation of React eco-system.
 
-<br/>
+---
+
 #### Last updated on
 
 May/24/2021
